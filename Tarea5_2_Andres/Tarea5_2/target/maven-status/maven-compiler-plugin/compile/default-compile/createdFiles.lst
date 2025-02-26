@@ -1,0 +1,6 @@
+com\mycompany\tarea5_2\ConexionMongoDB.class
+com\mycompany\tarea5_2\EliminarMovies.class
+com\mycompany\tarea5_2\UpdateMovies.class
+com\mycompany\tarea5_2\InsertMovies.class
+com\mycompany\tarea5_2\ConsultasMovies.class
+com\mycompany\tarea5_2\TextSearchMovies.class
